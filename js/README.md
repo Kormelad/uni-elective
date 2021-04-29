@@ -1,4 +1,3 @@
-# uni-elective
 ## Lesson plan
 
 https://bonsaiden.github.io/JavaScript-Garden/
